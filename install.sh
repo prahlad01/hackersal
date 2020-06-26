@@ -13,7 +13,7 @@ echo   "####################################"
 echo "."
 git clone https://github.com/IAmBlackHacker/Facebook-BruteForce
 mv Facebook-BruteForce $HOME
-cd ; ls ; cd Facebook-BruteForce ; chmod +x * ; pip3 installrequests bs4 ; pip install mechanize 
+cd ; ls ; cd Facebook-BruteForce ; chmod +x * ; pip3 install requests bs4 ; pip install mechanize 
 git  clone https://github.com/JTECHCODE/crackinsta
 mv crackinsta $HOME 
 cd ; cd crackinsta ; chmod +x * ; 
@@ -38,5 +38,7 @@ cd ; cd zphisher ; apt install git curl php openssh -y ; chmod +x * ;
 git clone https://github.com/websploit/websploit
 mv websploit $HOME
 cd ; cd websploit ; chmod +x * , pip install requirements.txt ; 
-
+cd 
+rm -rf hackersal
+echo " DONE! SUBSCRIBE TO THE YOUTUBE CHANNEL THE CYBER KIDDIE "
 exit
