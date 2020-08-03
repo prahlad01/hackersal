@@ -34,7 +34,7 @@ mv ipdrone $HOME
 cd ; cd ipdrone ; chmod +x * ;
 git clone https://github.com/htr-tech/zphisher
 mv zphisher $HOME
-cd ; cd zphisher ; apt install git curl php openssh -y ; chmod +x * ; 
+cd ; cd zphisher ; pkg install git curl php openssh -y ; chmod +x * ; 
 git clone https://github.com/websploit/websploit
 mv websploit $HOME
 cd ; cd websploit ; chmod +x * , pip install requirements.txt ; 
