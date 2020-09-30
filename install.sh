@@ -7,7 +7,7 @@ echo "."
 
 echo  "#####################################"
 echo   " Learn Free Hacking"               
- echo   " Subscribe to YouTube Channel The Cyber Kiddie"                                                                    
+ echo   " Subscribe to YouTube Channel MR RAVANAN"                                                                    
 echo   "####################################"
 
 echo "."
@@ -40,5 +40,5 @@ mv websploit $HOME
 cd ; cd websploit ; chmod +x * , pip install requirements.txt ; 
 cd 
 rm -rf hackersal
-echo " DONE! SUBSCRIBE TO THE YOUTUBE CHANNEL THE CYBER KIDDIE "
+echo " DONE! SUBSCRIBE TO THE YOUTUBE CHANNEL MR RAVANAN "
 exit
